@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Streets>
+	<Street ZipCode="50001">Fifth Avenue</Street>
+	<Street ZipCode="150001">Sixth Avenue</Street>
+	<Street ZipCode="150002">Essex Street</Street>
+	<Street ZipCode="150002">Orchard Street</Street>
+	<Street ZipCode="150003">Broadway</Street>
+	<Street ZipCode="150003">Park Avenue South</Street>
+</Streets>

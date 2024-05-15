@@ -1,0 +1,10 @@
+﻿<Window x:Class="StreetLookupClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Street Sercher" Height="350" Width="525">
+    <StackPanel>
+        <TextBox x:Name="zipCodeTextBox" Margin="10" />
+        <Button Content="Get Streets" Background="Aqua" Margin="40,5" Click="OnGetStreetsClick" />
+        <TextBlock x:Name="resultTextBlock" Margin="10" TextWrapping="Wrap" />
+    </StackPanel>
+</Window>
